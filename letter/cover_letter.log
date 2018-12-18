@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.29)  18 DEC 2018 22:15
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.29)  18 DEC 2018 23:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1027,7 +1027,7 @@ File: babel.def 2016/04/23 3.9r Babel common definitions
 (/usr/local/texlive/2016/texmf-dist/tex/generic/babel/xebabel.def))
 Package babel Info: Making " an active character on input line 90.
 ))
-(./header.tex) (./cover_letter.aux)
+(../header.tex) (./cover_letter.aux)
 \openout1 = `cover_letter.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
@@ -1261,8 +1261,8 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 144.
  ) 
 Here is how much of TeX's memory you used:
  40594 strings out of 493591
- 772888 string characters out of 6143546
- 891740 words of memory out of 5000000
+ 773009 string characters out of 6143546
+ 891776 words of memory out of 5000000
  43471 multiletter control sequences out of 15000+600000
  7129 words of font info for 89 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191

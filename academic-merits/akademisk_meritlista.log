@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.29)  18 DEC 2018 22:18
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.29)  18 DEC 2018 23:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1027,7 +1027,7 @@ File: babel.def 2016/04/23 3.9r Babel common definitions
 (/usr/local/texlive/2016/texmf-dist/tex/generic/babel/xebabel.def))
 Package babel Info: Making " an active character on input line 90.
 ))
-(./header.tex) (./akademisk_meritlista.aux)
+(../header.tex) (./akademisk_meritlista.aux)
 \openout1 = `akademisk_meritlista.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
@@ -1153,10 +1153,6 @@ LaTeX Info: Redefining \nameref on input line 63.
 \@outlinefile=\write6
 \openout6 = `akademisk_meritlista.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 \headertextwidth=\skip79
 \headerphotowidth=\skip80
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
@@ -1235,11 +1231,11 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 76.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 76.
  ) 
 Here is how much of TeX's memory you used:
- 40648 strings out of 493591
- 773973 string characters out of 6143546
- 892949 words of memory out of 5000000
+ 40650 strings out of 493591
+ 774150 string characters out of 6143546
+ 893104 words of memory out of 5000000
  43517 multiletter control sequences out of 15000+600000
- 7834 words of font info for 90 fonts, out of 8000000 for 9000
+ 7842 words of font info for 91 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  72i,11n,89p,10396b,563s stack positions out of 5000i,500n,10000p,200000b,80000s
 
