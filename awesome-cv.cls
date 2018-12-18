@@ -684,10 +684,10 @@
   \begin{singlespace}
     \recipientaddressstyle{\@recipientaddress} \\\\
   \end{singlespace}
-  \ifthenelse{\isundefined{\@lettertitle}}
-    {}
-    {\lettertitlestyle{\@lettertitle} \\}
-  \lettertextstyle{\@letteropening}
+%  \ifthenelse{\isundefined{\@lettertitle}}
+%    {}
+%    {\lettertitlestyle{\@lettertitle} \\}
+%  \lettertextstyle{\vspace{-1cm}} %// Skipping letter opening (should be '\@letteropening' there)
 }
 
 % Define a closing of the cover letter
