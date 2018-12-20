@@ -682,7 +682,7 @@
     \recipienttitlestyle{\@recipientname} & \letterdatestyle{\@letterdate}
   \end{tabular*}
   \begin{singlespace}
-    \recipientaddressstyle{\@recipientaddress} \\\\
+%    \recipientaddressstyle{\@recipientaddress} \\\\   // DROP THE ADDRESS THING BELOW NAME
   \end{singlespace}
 %  \ifthenelse{\isundefined{\@lettertitle}}
 %    {}

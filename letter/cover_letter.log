@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.29)  18 DEC 2018 23:02
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.29)  20 DEC 2018 11:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1188,83 +1188,55 @@ lable
 ut line 82.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 82.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 82.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 9.0pt on input line 82.
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
-
- []
-
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 82.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 82.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 82.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0001pt on input line 82.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 82.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 82.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.9999pt on input line 82.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 82.
+(Font)              scaled to size 10.0pt on input line 88.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 142.
+(Font)              scaled to size 10.0pt on input line 129.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 142.
+(Font)              scaled to size 10.0pt on input line 129.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <10> not ava
 ilable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 142.
+ut line 129.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 142.
+(Font)              scaled to size 10.0pt on input line 129.
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 144.
+(Font)              scaled to size 10.0pt on input line 131.
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
  (./cover_letter.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 144.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 144.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 131.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 131.
  ) 
 Here is how much of TeX's memory you used:
- 40594 strings out of 493591
- 773009 string characters out of 6143546
- 891776 words of memory out of 5000000
- 43471 multiletter control sequences out of 15000+600000
- 7129 words of font info for 89 fonts, out of 8000000 for 9000
+ 40569 strings out of 493591
+ 771840 string characters out of 6143546
+ 889722 words of memory out of 5000000
+ 43459 multiletter control sequences out of 15000+600000
+ 6520 words of font info for 77 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  72i,11n,89p,10388b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
 
