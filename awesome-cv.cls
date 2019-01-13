@@ -229,7 +229,9 @@
 \newcommand*{\lettersectionstyle}[1]{{\fontsize{14pt}{1em}\bodyfont\bfseries\color{text}\@sectioncolor #1}}
 \newcommand*{\recipientaddressstyle}[1]{{\fontsize{9pt}{1em}\bodyfont\scshape\color{graytext} #1}}
 \newcommand*{\recipienttitlestyle}[1]{{\fontsize{11pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
-\newcommand*{\lettertitlestyle}[1]{{\fontsize{10pt}{1em}\bodyfontlight\bfseries\color{darktext} \underline{#1}}}
+%\newcommand*{\lettertitlestyle}[1]{{\fontsize{10pt}{1em}\bodyfontlight\bfseries\color{darktext} \underline{#1}}}
+% like above but not underlined
+\newcommand*{\lettertitlestyle}[1]{{\fontsize{10pt}{1em}\bodyfontlight\bfseries\color{darktext} {#1}}}
 \newcommand*{\letterdatestyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\slshape\color{graytext} #1}}
 \newcommand*{\lettertextstyle}{\fontsize{10pt}{1.4em}\bodyfontlight\upshape\color{graytext}}
 \newcommand*{\letternamestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
@@ -679,15 +681,18 @@
   \setlength\tabcolsep{0pt}
   \setlength{\extrarowheight}{0pt}
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
-    \recipienttitlestyle{\@recipientname} & \letterdatestyle{\@letterdate}
+%    \recipienttitlestyle{\@recipientname} & \letterdatestyle{\@letterdate}
+% only job title in different font
+    \recipientaddressstyle{\@recipientname} & \letterdatestyle{\@letterdate}
   \end{tabular*}
   \begin{singlespace}
-%    \recipientaddressstyle{\@recipientaddress} \\\\   // DROP THE ADDRESS THING BELOW NAME
+%    \recipientaddressstyle{\@recipientaddress} \\\\   % DROP THE ADDRESS THING BELOW NAME
   \end{singlespace}
-%  \ifthenelse{\isundefined{\@lettertitle}}
-%    {}
-%    {\lettertitlestyle{\@lettertitle} \\}
-%  \lettertextstyle{\vspace{-1cm}} %// Skipping letter opening (should be '\@letteropening' there)
+  \ifthenelse{\isundefined{\@lettertitle}}
+    {}
+    {\lettertitlestyle{\@lettertitle} \\}
+%  \lettertextstyle{\@letteropening} %// Skipping letter opening (should be '\@letteropening' there)
+  \lettertitlestyle{\@letteropening} %// Skipping letter opening (should be '\@letteropening' there)
 }
 
 % Define a closing of the cover letter
