@@ -695,7 +695,7 @@
 \newcommand*{\makeletterclosing}{%
   \vspace{3.4mm}
   \lettertextstyle{\@letterclosing} \\\\
-%  \letternamestyle{\@firstname\ \@lastname} // Remove name, write by hand
+  \letternamestyle{\@firstname\ \@lastname} % comment out if you want to write name by hand
   \ifthenelse{\isundefined{\@letterenclosure}}
     {\\}
     {%
