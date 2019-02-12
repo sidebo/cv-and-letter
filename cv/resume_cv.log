@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.29)  12 FEB 2019 10:06
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.29)  12 FEB 2019 10:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1250,12 +1250,12 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 99.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 40626 strings out of 493591
- 774030 string characters out of 6143546
- 896110 words of memory out of 5000000
+ 40627 strings out of 493591
+ 774039 string characters out of 6143546
+ 896111 words of memory out of 5000000
  43469 multiletter control sequences out of 15000+600000
  7858 words of font info for 93 fonts, out of 8000000 for 9000
- 1347 hyphenation exceptions out of 8191
+ 1348 hyphenation exceptions out of 8191
  72i,11n,89p,10385b,598s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume_cv.pdf (2 pages).
