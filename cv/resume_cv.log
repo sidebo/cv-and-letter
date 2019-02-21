@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.29)  21 FEB 2019 12:01
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.29)  21 FEB 2019 13:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1236,7 +1236,7 @@ LaTeX Font Info:    Font shape `EU1/lmtt/bx/n' in size <9> not available
 
 ]
 (./cv-sections/education.tex) (./cv-sections/skills.tex
-Overfull \hbox (125.32536pt too wide) in alignment at lines 13--82
+Overfull \hbox (75.75536pt too wide) in alignment at lines 13--83
 [] [] 
  []
 
