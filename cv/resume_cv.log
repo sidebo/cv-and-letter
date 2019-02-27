@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.29)  25 FEB 2019 09:50
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.7.29)  27 FEB 2019 13:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1178,18 +1178,23 @@ Overfull \hbox (1.46pt too wide) in paragraph at lines 72--72
 []$[]$ $[]$$[]$ 
  []
 
-(./cv-sections/summary.tex
+(./cv-sections/skills.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 16.0pt on input line 1.
+(Font)              scaled to size 16.0pt on input line 6.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/bx/n' will be
-(Font)              scaled to size 16.0pt on input line 1.
+(Font)              scaled to size 16.0pt on input line 6.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 30.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 30.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 7.
+(Font)              scaled to size 9.0pt on input line 30.
+
+Overfull \hbox (14.19536pt too wide) in alignment at lines 13--58
+[] [] 
+ []
+
 ) (./cv-sections/experience.tex
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 53.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 53.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <9> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
@@ -1232,30 +1237,26 @@ File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `EU1/lmtt/bx/n' in size <9> not available
 (Font)              Font shape `EU1/lmtt/b/n' tried instead on input line 53.
-) [1
+ [1
 
-]
-(./cv-sections/education.tex) (./cv-sections/skills.tex
-Overfull \hbox (78.29536pt too wide) in alignment at lines 13--85
-[] [] 
- []
-
-) (./cv-sections/extracurricular.tex) (./cv-sections/utmarkelser.tex)
+])
+(./cv-sections/education.tex) (./cv-sections/extracurricular.tex)
+(./cv-sections/utmarkelser.tex) (./cv-sections/other.tex)
 (./cv-sections/personligt.tex) (./cv-sections/referenser.tex) [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
 
 (./resume_cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 100.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 100.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 102.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 102.
  ) 
 Here is how much of TeX's memory you used:
  40628 strings out of 493591
- 774049 string characters out of 6143546
+ 774043 string characters out of 6143546
  896113 words of memory out of 5000000
  43469 multiletter control sequences out of 15000+600000
  7858 words of font info for 93 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
- 72i,11n,89p,10385b,598s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,12n,89p,10385b,598s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume_cv.pdf (2 pages).
